@@ -1,16 +1,17 @@
-body {background-color: #0f7173}
+body {background-color: #33cccc}
 
-h1 {font-family: 'Press Start 2P', cursive; color: #ee4b6a}
+h1 {font-family: 'Press Start 2P', cursive; color: #df3b57}
 
 .content {font-family: 'Inconsolata', monospace;
-    color: #ee4b6a;
-    max-width: 600px;
-    margin: auto;
+    color: #df3b57;
+    max-width: 850px;
+    margin: 0 auto;
     transform: skewY(11deg)}
 
-.diagonal-box {background-color: #df3b57;
-    
-    transform: skewY(-11deg)}
+.diagonal-box {background-color: #fc9c9c;
+    transform: skewY(-11deg);
+    margin-top: 13%;
+    border: 0px}
 
 
 

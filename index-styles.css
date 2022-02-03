@@ -5,7 +5,8 @@ body {background-color: #33cccc;
 h1 {font-family: 'Press Start 2P', cursive; color: #df3b57}
 
 .diagonal-box {background-color: #fc9c9c;
-    padding:10px;
+    padding-top:10px;
+    padding-bottom:10px
     margin: 0;
     width:100%;
     position: absolute;
